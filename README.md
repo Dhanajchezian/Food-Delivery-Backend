@@ -1,4 +1,3 @@
-# Food-Delivery-Backend
 
 ## Abstract
 
